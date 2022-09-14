@@ -1,0 +1,7 @@
+{
+  "name": "delivery_frontEnd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
